@@ -1,4 +1,4 @@
 ---
-[µProjects](http://github.com/g4v3/microProjects)/g4v3's_licenses
+[µProjects](http://github.com/g4v3/microProjects)/[g4v3's_licenses](http://github.com/g4v3/microProjects/tree/g4v3's_licenses)
 ---
 This is a list of licenses I used, and they're here for future use.
