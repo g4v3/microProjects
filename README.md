@@ -1,4 +1,4 @@
-#µProjects
-* [g4v3's licenses](http://gist.github.com/g4v3/6485630)
-* [g4v3's CSS-writing style](http://github.com/g4v3/microProjects/tree/g4v3)
+#[µProjects](http://github.com/g4v3/microProjects) by [g4v3](http://github.com/g4v3)
+* [g4v3's_licenses](http://github.com/g4v3/microProjects/tree/g4v3's_licenses)
+* [g4v3's_CSS-writing_style](http://github.com/g4v3/microProjects/tree/g4v3's_CSS-writing_style)
 * [bodyAbstractionLayer](http://github.com/g4v3/microProjects/tree/bodyAbstractionLayer)
