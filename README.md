@@ -1,4 +1,18 @@
-#[µProjects](http://github.com/g4v3/microProjects) by [g4v3](http://github.com/g4v3)
-* [g4v3's_licenses](http://github.com/g4v3/microProjects/tree/g4v3's_licenses)
-* [g4v3's_CSS-writing_style](http://github.com/g4v3/microProjects/tree/g4v3's_CSS-writing_style)
-* [bodyAbstractionLayer](http://github.com/g4v3/microProjects/tree/bodyAbstractionLayer)
+---
+[µProjects](http://github.com/g4v3/microProjects)/[g4v3's_JSON-writing_style](http://github.com/g4v3/microProjects/g4v3's_JSON-writing_style)
+---
+```
+{  "1st child":
+   {  "2nd child":
+      {  "3rd child":
+         [  [  [  "nested lists"
+               ,  {  "and an object": null
+                  ,  "and another": false
+                  ,  "and an other": true
+                  }
+               ]
+               ,  "yet another string"
+               ,  -3.1415927e-21
+         ]  ]
+}  }  }
+```
